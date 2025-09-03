@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Lore-Computaria /README.md
 
 **📚💻 Cursando Bacharelado em Ciência da Computação 2/8 | Centro Universitário Gran**
 
 # SOBRE MIM:
 
-Sou uma pessoa curiosa e observadora,apaixonada por  tecnologia, que almeja resolver problemas reais com soluções inovadoras por meio do código.  
+Sou uma pessoa curiosa  e observadora,apaixonada por  tecnologia,almejando resolver problemas reais com soluções inovadoras por meio do código.  
 Tenho interesse genuíno nas áreas de : desenvolvimento de software, cibersegurança e robótica.
 
 ## TECNOLOGIAS:
