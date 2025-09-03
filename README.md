@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Lorena Araújo/Lore-Computaria /README.md
+Lore-Computaria /README.md
 
-**📚💻 Cursando Bacharelado em Ciência da Computação | Centro Universitário Gran**
+**📚💻 Cursando Bacharelado em Ciência da Computação 2/8 | Centro Universitário Gran**
 
 # SOBRE MIM:
 
-
+Sou uma pessoa curiosa e observadora,apaixonada por  tecnologia, que almeja resolver problemas reais com soluções inovadoras por meio do código.  
+Tenho interesse genuíno nas áreas de : desenvolvimento de software, cibersegurança e robótica.
 
 ## TECNOLOGIAS:
 
@@ -43,5 +44,3 @@ Lorena Araújo/Lore-Computaria /README.md
 - 🎬 Filmes/Séries 
 - 💪 Gym
 
-<p aling = "center">                 *Se você pode sonhar, você pode realizar*                           </p>   
-       *Walter Disney*</p>
