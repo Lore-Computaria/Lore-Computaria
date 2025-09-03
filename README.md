@@ -1,10 +1,8 @@
-Lore-Computaria/README.md
-
 **📚💻 Cursando Bacharelado em Ciência da Computação 2/8 | Centro Universitário Gran**
 
 # SOBRE MIM:
 
-Sou uma pessoa curiosa  e observadora,apaixonada por  tecnologia,almejando resolver problemas reais com soluções inovadoras por meio do código.  
+Sou uma pessoa curiosa e observadora,apaixonada por tecnologia,almejando resolver problemas reais com soluções inovadoras por meio do código.  
 Tenho interesse genuíno nas áreas de : desenvolvimento de software, cibersegurança e robótica.
 
 ## TECNOLOGIAS:
@@ -18,7 +16,6 @@ Tenho interesse genuíno nas áreas de : desenvolvimento de software, cibersegur
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="37" height="37"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="37" height="37"/>
 </p>
-
 
 ### HOBBIES:
 
