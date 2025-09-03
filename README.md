@@ -5,6 +5,7 @@
 Sou uma pessoa curiosa e observadora,apaixonada por tecnologia,almejando resolver problemas reais com soluções inovadoras por meio do código.  
 Tenho interesse genuíno nas áreas de : desenvolvimento de software, cibersegurança e robótica.
 
+
 ## TECNOLOGIAS:
 
 <p align="left">
