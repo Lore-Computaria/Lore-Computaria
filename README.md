@@ -6,7 +6,7 @@ Sou uma pessoa curiosa e observadora,apaixonada por tecnologia,almejando resolve
 Tenho interesse genuíno nas áreas de : desenvolvimento de software, cibersegurança e robótica.
 
 
-## TECNOLOGIAS:
+## TECNOLOGIAS/FERRAMENTAS :
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="37" height="37"/>
