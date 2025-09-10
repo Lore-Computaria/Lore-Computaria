@@ -9,7 +9,7 @@ Tenho interesse genuíno nas áreas de : desenvolvimento de software, cibersegur
 
 
 ## TECNOLOGIAS/FERRAMENTAS :
-
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="37" height="37"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="37" height="37"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="37" height="37"/>
@@ -17,6 +17,7 @@ Tenho interesse genuíno nas áreas de : desenvolvimento de software, cibersegur
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="37" height="37"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="37" height="37"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="37" height="37"/>
+  <p/>
 
 ### HOBBIES:
 
