@@ -2,13 +2,15 @@
 
 # SOBRE MIM:
 
-Sou uma pessoa curiosa e observadora,apaixonada por tecnologia,almejando resolver problemas reais com soluções inovadoras por meio do código.  
+<p align="center">
+  Sou uma pessoa curiosa e observadora,apaixonada por tecnologia,almejando resolver problemas reais com soluções inovadoras por meio do código.  
 Tenho interesse genuíno nas áreas de : desenvolvimento de software, cibersegurança e robótica.
+</p>
 
 
 ## TECNOLOGIAS/FERRAMENTAS :
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="37" height="37"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="37" height="37"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="37" height="37"/>
